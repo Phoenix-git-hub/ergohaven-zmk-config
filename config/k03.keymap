@@ -17,7 +17,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        base {
+        en {
             bindings = <
 &kp ESC            &kp N1            &kp N2          &kp NUMBER_3  &kp N4        &kp N5                                         &kp N6  &kp N7         &kp N8  &kp N9           &kp N0  &kp DELETE
 &kp RIGHT_BRACKET  &kp LEFT_BRACKET  &kp EQUAL       &kp MINUS     &kp P         &kp Y                                          &kp F   &kp G          &kp C   &kp R            &kp K   &kp BACKSPACE
