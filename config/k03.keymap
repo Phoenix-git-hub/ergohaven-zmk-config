@@ -23,7 +23,7 @@
 &kp COMMA  &kp B   &kp W           &kp D         &kp L   &kp MINUS                                         &kp EQUAL  &kp F          &kp O             &kp U              &kp J   &kp BACKSPACE
 &kp NUBS   &kp C   &kp S           &kp T         &kp R   &kp X                                             &kp Q      &kp N          &kp A             &kp I              &kp H   &kp FSLH
 &kp DOT    &kp V   &kp Y           &kp G         &kp M   &kp Z      &kp LEFT_CONTROL    &kp RIGHT_CONTROL  &kp SEMI   &kp P          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp K   &kp TAB
-                   &kp LEFT_SHIFT  &kp LEFT_WIN  &kp E   &mo 2      &kp ENTER           &kp SPACE          &mo 1      &kp RIGHT_ALT  &to 4             &kp RIGHT_SHIFT
+                   &kp LEFT_SHIFT  &kp LEFT_WIN  &kp E   &sl 2      &kp ENTER           &kp SPACE          &sl 1      &kp RIGHT_ALT  &to 4             &kp RIGHT_SHIFT
             >;
 
             display-name = "Base";
