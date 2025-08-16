@@ -23,7 +23,7 @@
 &kp RIGHT_BRACKET  &kp LEFT_BRACKET  &kp EQUAL       &kp MINUS     &kp P         &kp Y                                          &kp F   &kp G          &kp C   &kp R            &kp K   &kp BACKSPACE
 &kp SEMI           &kp O             &kp A           &kp E         &kp I         &kp U                                          &kp D   &kp H          &kp T   &kp N            &kp S   &kp FSLH
 &kp COMMA          &kp DOT           &kp X           &kp Q         &kp V         &kp J   &kp LEFT_CONTROL    &kp RIGHT_CONTROL  &kp L   &kp M          &kp W   &kp B            &kp Z   &kp TAB
-                                     &kp LEFT_SHIFT  &kp LEFT_WIN  &kp LEFT_ALT  &mo 1   &kp ENTER           &kp SPACE          &mo 2   &kp RIGHT_ALT  &mo 4   &kp RIGHT_SHIFT
+                                     &kp LEFT_SHIFT  &kp LEFT_WIN  &kp LEFT_ALT  &sl 1   &kp ENTER           &kp SPACE          &sl 2   &kp RIGHT_ALT  &to 4   &kp RIGHT_SHIFT
             >;
 
             display-name = "Base";
@@ -78,7 +78,7 @@
 &kp RU_CYRILLIC_SHCHA  &kp RU_CYRILLIC_TSE  &kp RU_CYRILLIC_KA  &kp RU_CYRILLIC_EL  &kp RU_CYRILLIC_BE  &kp RU_CYRILLIC_SHORT_I                                 &kp RU_CYRILLIC_HARD_SIGN  &kp RU_CYRILLIC_YERU       &kp RU_CYRILLIC_YA  &kp RU_CYRILLIC_E   &kp RU_CYRILLIC_EF   &kp BACKSPACE
 &kp RU_CYRILLIC_CHE    &kp RU_CYRILLIC_ZE   &kp RU_CYRILLIC_VE  &kp RU_CYRILLIC_EN  &kp RU_CYRILLIC_TE  &kp RU_CYRILLIC_DE                                      &kp RU_CYRILLIC_I          &kp RU_CYRILLIC_A          &kp RU_CYRILLIC_O   &kp RU_CYRILLIC_IE  &kp RU_CYRILLIC_ES   &kp FSLH
 &kp RU_CYRILLIC_ZHE    &kp RU_CYRILLIC_HA   &kp RU_CYRILLIC_PE  &kp RU_CYRILLIC_ER  &kp RU_CYRILLIC_EM  &kp RU_CYRILLIC_GHE      &kp LEFT_CONTROL    &kp RCTRL  &kp RU_CYRILLIC_IO         &kp RU_CYRILLIC_SOFT_SIGN  &kp RU_CYRILLIC_U   &kp RU_CYRILLIC_YU  &kp RU_CYRILLIC_SHA  &kp LS(TAB)
-                                            &kp LEFT_SHIFT      &kp LEFT_WIN        &kp LEFT_ALT        &mo 1                    &kp ENTER           &kp SPACE  &mo 2                      &kp RIGHT_ALT              &mo 0               &kp RIGHT_SHIFT
+                                            &kp LEFT_SHIFT      &kp LEFT_WIN        &kp LEFT_ALT        &sl 1                    &kp ENTER           &kp SPACE  &sl 2                      &kp RIGHT_ALT              &to 0               &kp RIGHT_SHIFT
             >;
         };
     };
